@@ -36,8 +36,11 @@ crop_cpdd数据集下载：https://blog.csdn.net/Twilight737?spm=1018.2226.3001.
 Epoch 00120: ReduceLROnPlateau reducing learning rate to 9.999999747378752e-07.
 
 Epoch 121/150
+
 90/90 [==============================] - 5158s 57s/step - loss: 4.6372 - val_loss: 4.5779
+
 Epoch 122/150
+
 90/90 [==============================] - 5238s 58s/step - loss: 4.6585 - val_loss: 4.5236
 
 Epoch 123/150
