@@ -34,9 +34,7 @@ crop_cpdd数据集下载：https://blog.csdn.net/Twilight737?spm=1018.2226.3001.
 先采用1e-3的学习率训练50轮，待到模型参数较佳时，再解开所有冰冻层，将学习率改为1e-4，达到最佳权重效果，val loss = 4.5255。
 
 Epoch 00120: ReduceLROnPlateau reducing learning rate to 9.999999747378752e-07.
-
 Epoch 121/150
-
 90/90 [==============================] - 5158s 57s/step - loss: 4.6372 - val_loss: 4.5779
 
 Epoch 122/150
